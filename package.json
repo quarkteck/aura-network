@@ -1,0 +1,22 @@
+{
+  "name": "aura_network",
+  "version": "1.0.0",
+  "description": "Aura Network is p2p network for aura music streaming service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quarkteck/aura-network.git"
+  },
+  "author": "Luis Acerv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarkteck/aura-network/issues"
+  },
+  "homepage": "https://github.com/quarkteck/aura-network#readme",
+  "dependencies": {
+    "smokesignal": "^0.2.2"
+  }
+}
